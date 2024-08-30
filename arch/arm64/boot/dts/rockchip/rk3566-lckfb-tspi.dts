@@ -212,7 +212,7 @@
 	tx_delay = <0x4f>;
 	rx_delay = <0x25>;
 
-	phy-handle = <&rgmii_phy0>;
+	phy-handle = <&rgmii_phy1>;
 	status = "okay";
 };
 
